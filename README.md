@@ -1,1 +1,1 @@
-# Simple calculator
+# Color changer using js
